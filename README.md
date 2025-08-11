@@ -27,7 +27,7 @@ I love working across the full stack — from crafting clean user interfaces to 
 
 ## 📫 Connect with me
 
-- 🌐 [My Portfolio](https://zarish-portfolio.vercel.app)  
+- 🌐 [My Portfolio](https://zarishbilal.tech/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/zarishbilal)  
 
 
